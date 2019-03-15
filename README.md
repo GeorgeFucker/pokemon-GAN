@@ -14,3 +14,9 @@ To generate image first of all you should get trained model of the generated. Af
 Many of features have not been added and a lot of hyperparameters have not been added due to lack of time. The main problem is time of training the model. GPU version of tensorflow and trying of optimize training process helped but not really mucb. There a lot improvements to involve so it is just matter of time. 
 
 Second version changes were taken according to this article: https://github.com/soumith/ganhacks.
+
+Also I know one person's realization of this GAN which was trained during mode time. But I decided to create my own model that could in future beat this model.
+
+Example of pokemon generation:
+
+![alt text](https://github.com/GeorgeFucker/pokemon-GAN/blob/master/image_at_epoch_1214.png)
